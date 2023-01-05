@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1030767964790",
+    "project_id": "ott-studio",
+    "storage_bucket": "ott-studio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030767964790:android:17f2c91c13568b81c9e557",
+        "android_client_info": {
+          "package_name": "com.example.ottstudio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030767964790-n36rp0srn78jbas2taf42um7m67c6p6m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUdhtAMh8yn4tvTnsDe1K7ISCHf4cMees"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030767964790-n36rp0srn78jbas2taf42um7m67c6p6m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
